@@ -4,7 +4,7 @@ Aquest és el meu **portfoli** dels meus estudis del *Cicle Superior de Desenvol
 
 Els meus estudis de DAM els he fet a l'Institut Nicolau Copèrnic
 
-<img src = https://copernic.cat/images/logos/logo-header.png width="200px">
+<img src="https://copernic.cat/images/logos/logo-header.png" width="200px">
 
 Els mòduls que he fet són:
 - [M01: Sistemes informàtics](https://github.com/PolNie/Portfoli/tree/main/Moduls/M01%20Sistemes%20informatics)
