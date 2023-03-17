@@ -3,7 +3,8 @@
 Aquest és el meu **portfoli** dels meus estudis del *Cicle Superior de Desenvolupament d'Aplicacions Multiplataforma.*
 
 Els meus estudis de DAM els he fet a l'Institut Nicolau Copèrnic
-![Logo Nicolau Copèrnic](https://copernic.cat/images/logos/logo-header.png)
+
+<img src = https://copernic.cat/images/logos/logo-header.png with = 200px>
 
 Els mòduls que he fet són:
 - [M01: Sistemes informàtics](https://github.com/PolNie/Portfoli/tree/main/Moduls/M01%20Sistemes%20informatics)
