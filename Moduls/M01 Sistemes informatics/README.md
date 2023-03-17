@@ -1,1 +1,1 @@
-M01 Sistemes informatics
+M01: Sistemes informàtics
