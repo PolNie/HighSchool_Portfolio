@@ -1,1 +1,1 @@
-M01: Sistemes informàtics
+UF1 - Instal·lació, configuració i explotació del sistema informàtic
