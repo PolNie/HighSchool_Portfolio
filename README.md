@@ -2,7 +2,7 @@
 
 Aquest és el meu **portfoli** dels meus estudis del *Cicle Superior de Desenvolupament d'Aplicacions Multiplataforma.*
 
-Els meus estudis de DAM els he fet a l'Institut Nicolau Copèrnic
+Els meus estudis de DAM els he realitzat a l'Institut Nicolau Copèrnic
 
 <img src="https://copernic.cat/images/logos/logo-header.png" width="115px" alt="Logo INS Copèrnic">
 
