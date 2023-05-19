@@ -1,3 +1,3 @@
 Pràctiques:
 
-- [RAID + LVM](https://htmlpreview.github.io/?)
+- [Accés remot](https://htmlpreview.github.io/?)
